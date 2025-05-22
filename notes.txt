@@ -1,1 +1,1 @@
-My First Introduction to Git.
+My First Introduction to Git. Now, I am learning about branching.
