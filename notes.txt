@@ -1,1 +1,1 @@
-My First Introduction to Git. Will there be a merge conflict?
+My First Introduction to Git. Now, I am learning about branching. Will there be a merge conflict?
