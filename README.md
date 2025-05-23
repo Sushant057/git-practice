@@ -1,1 +1,1 @@
-Hi, it's me Sushant Lamsal. Now, I am learning about push and pull. Edited README file from Github. This is a conflicting line from the feature-conflict branch.
+Hi, it's me Sushant Lamsal. Now, I am learning about push and pull. Edited README file from Github. This is a conflicting line from the feature-conflict branch. This change was made directly on GitHub.
